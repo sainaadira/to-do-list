@@ -2,7 +2,7 @@
 This to do list that is fully functional. It adds items to the lists, crosses them out when complete and clears the task list.
 
 
-![alt tag] (6/21-todolist/list.png)
+![alt tag] (list.png)
 
 ## How it's made:
 **Tech Used** I used HTML, CSS and JavaScript to build this project. Making this to-do list was a lot of fun but also very challenging as I am still new to JavaScript.
